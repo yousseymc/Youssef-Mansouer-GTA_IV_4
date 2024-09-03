@@ -8,7 +8,7 @@ function subscribe() {
 }
 
 function like() {
-    window.open('https://youtu.be/VJVvsdVBit0?si=NZcUIicVrz3od5Ja', '_blank');
+    window.open('https://youtu.be/EfncuO1z8U4?si=UT2-zTxkiHwWxfLV', '_blank');
     likeClicked = true;
     updateProgress();
 }
