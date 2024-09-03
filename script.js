@@ -2,7 +2,7 @@ let subscribeClicked = false;
 let likeClicked = false;
 
 function subscribe() {
-    window.open('https://www.youtube.com/@SupreYoussef', '_blank');
+    window.open('https://www.youtube.com/@YouSSef-Mansour-YM', '_blank');
     subscribeClicked = true;
     updateProgress();
 }
